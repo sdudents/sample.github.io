@@ -1,0 +1,313 @@
+.header .number_one nav {
+  height: 80px;
+}
+.main .main_one {
+  height: 600px;
+  background: #505a78;
+}
+.main .main_one .container .info {
+  margin-top: 200px;
+  color: #fff;
+}
+.main .main_one .container .info h1 {
+  font-size: 48px;
+}
+.main .main_one .container .info span {
+  display: inline-block;
+  font-size: 14px;
+  margin-top: 20px;
+}
+.main .main_one .container .info a {
+  display: inline-block;
+  margin-top: 20px;
+  padding: 13px 38px;
+  border: #424d6c;
+  background: #7cdf95;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.main .main_one .container .phone_img {
+  background: url(../img/iphone.png) no-repeat right;
+  margin-top: 82px;
+  height: 518px;
+}
+.main .main_two {
+  padding-bottom: 100px;
+}
+.main .main_two .container .features {
+  margin-top: 117px;
+  text-align: center;
+}
+.main .main_two .container .features h2 {
+  font-size: 48px;
+  color: #505a78;
+}
+.main .main_two .container .features span {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #a5abbb;
+}
+.main .main_two .container .row {
+  margin-top: 30px;
+}
+.main .main_three .block_item {
+  background: #505a78;
+  min-height: 500px;
+  text-align: center;
+  color: #fff;
+}
+.main .main_three .block_item img {
+  margin-top: 140px;
+}
+.main .main_three .block_item h2 {
+  margin-top: 50px;
+  font-size: 24px;
+}
+.main .main_three .block_item span {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 17px;
+}
+.main .main_three .block_item a {
+  display: inline-block;
+  margin-top: 36px;
+  font-size: 14px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.main .main_three .block_item:hover {
+  background: #485270;
+}
+.main .main_foure {
+  padding-bottom: 110px;
+}
+.main .main_foure .container .work {
+  margin-top: 117px;
+  text-align: center;
+}
+.main .main_foure .container .work h2 {
+  font-size: 48px;
+  color: #505a78;
+}
+.main .main_foure .container .work span {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #a5abbb;
+}
+.main .main_foure .container .link {
+  max-width: 400px;
+  margin: 0 auto;
+  margin-top: 50px;
+}
+.main .main_foure .container .link ul {
+  text-transform: uppercase;
+}
+.main .main_foure .container .setka {
+  min-height: 250px;
+  margin-top: 90px;
+  background: #505a78;
+  text-align: center;
+}
+.main .main_foure .container .setka img {
+  margin-top: 110px;
+}
+.main .main_foure .container .setka:hover {
+  background: #485270;
+}
+.main .main_foure .text-left h2 {
+  margin-top: 30px;
+  font-size: 24px;
+  color: #505a78;
+}
+.main .main_foure .text-left span {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  color: #a5abbb;
+}
+.main .main_five {
+  min-height: 160px;
+  background: #505a78;
+  padding-bottom: 20px;
+}
+.main .main_five .container .navbar-left {
+  margin-top: 40px;
+}
+.main .main_five .container .navbar-right {
+  margin-top: 70px;
+}
+.main .main_five .container h2 {
+  font-size: 24px;
+  color: #fff;
+}
+.main .main_five .container span {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #fff;
+}
+.main .main_five .container a {
+  text-decoration: none;
+  text-transform: uppercase;
+  border: 2px solid #424d6c;
+  padding: 13px 38px;
+  color: #fff;
+}
+.main .main_five .container a:hover {
+  background: #7cdf95;
+}
+.main .main_six {
+  padding-bottom: 100px;
+}
+.main .main_six .container {
+  margin-top: 117px;
+  text-align: center;
+}
+.main .main_six .container h2 {
+  font-size: 48px;
+  color: #505a78;
+}
+.main .main_six .container span {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #a5abbb;
+}
+.main .main_six .container .row .test {
+  height: 140px;
+  background: #505a78;
+}
+.main .main_six .container .row .test img {
+  margin-top: 50px;
+}
+.main .main_six .container .row .test_2 {
+  margin-top: 70px;
+}
+.main .main_six .container .row .text-left h2 {
+  font-size: 24px;
+}
+.main .main_six .container .row .text-left p {
+  font-size: 14px;
+  line-height: 17px;
+}
+.main .main_seven {
+  min-height: 160px;
+  background: #505a78;
+}
+.main .main_seven h2 {
+  margin-top: 55px;
+  font-size: 24px;
+  color: #fff;
+}
+.main .main_seven form {
+  margin-top: 54px;
+}
+.main .main_еight {
+  padding-bottom: 100px;
+}
+.main .main_еight .container {
+  margin-top: 117px;
+  text-align: center;
+}
+.main .main_еight .container h2 {
+  font-size: 48px;
+  color: #505a78;
+}
+.main .main_еight .container span {
+  display: inline-block;
+  margin-top: 10px;
+  font-size: 14px;
+  line-height: 17px;
+  color: #a5abbb;
+}
+.main .main_еight .container .diagramm {
+  font-size: 30px;
+  text-transform: uppercase;
+  margin-top: 16px;
+  color: #505a78;
+}
+.main .nine {
+  min-height: 280px;
+  background: #505a78;
+}
+.main .nine .klan {
+  margin-top: 15px;
+  height: 250px;
+  text-align: center;
+}
+.main .nine .klan h2 {
+  margin-top: 32px;
+  text-align: center;
+  font-size: 24px;
+  color: white;
+}
+.main .nine .klan span {
+  display: inline-block;
+  margin-top: 35px;
+  font-size: 14px;
+  color: #a5abbb;
+  line-height: 18px;
+}
+.main .nine .klan a {
+  display: inline-block;
+  padding: 13px 38px;
+  border: #424d6c solid 2px;
+  background: none;
+  color: #fff;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.main .nine .klan a:hover {
+  background: #7cdf95;
+}
+.main .nine .klan-one img {
+  margin-top: 30px;
+}
+.main .nine .klan-one a {
+  margin-top: 30px;
+}
+.main .nine .klan-one a:hover {
+  background: #7cdf95;
+}
+.main .nine .klan-two span {
+  margin-top: 48px;
+}
+.main .nine .klan-two a {
+  margin-top: 30px;
+}
+.main .nine .klan-three {
+  color: #fff;
+}
+.main .nine .klan-three p {
+  margin-top: 40px;
+}
+.main .nine .klan-three a {
+  border: none;
+}
+.main .nine .klan-three a:hover {
+  background: none;
+}
+.footer {
+  background: #485270;
+}
+.footer .container a {
+  margin-top: 30px;
+  color: #a5abbb;
+}
+.footer .container ul li a {
+  margin-top: 15px;
+  text-transform: uppercase;
+  color: #fff;
+}
+.footer .container ul li a:hover {
+  background: none;
+  border-bottom: solid 2px #fff;
+}
